@@ -17,6 +17,9 @@ const Sidebar = () => {
           <li>
               Exclusive
           </li>
+          <li>
+              Badges
+          </li>
       </ul>
     </amp-sidebar>
   );
