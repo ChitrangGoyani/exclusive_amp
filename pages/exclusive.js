@@ -251,11 +251,15 @@ const exclusive = (props) => (
                             font-family:Source Sans Pro, sans-serif;
                             width:100%;
                             margin-left:7.7%;
+                            margin-top:6%;
+                            
                          }
                          table{
                             border-collapse: collapse;
                             border: 5px solid #52bdae;
-                            width:85%;
+                            width:95%;
+                            margin:-5%;
+                            overflow:auto;
                          }
                          td,th{
                              border:1px solid black;
